@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('cosa', function () {
+Route::get('cos', function () {
     return "hola";
 });
 
