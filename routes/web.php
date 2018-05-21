@@ -11,21 +11,19 @@
 |
 */
 
-<<<<<<< HEAD
+
 Route::get('/', function () {
     return "hollita";
-=======
+
 Route::get('cos', function () {
     return "hola";
->>>>>>> origin/master
+
 });
 
 Route::get('picopalquelee');
 
 Route::get('/index');
 
-<<<<<<< HEAD
-Route::get('/tercerapruebacongit')
-=======
 
->>>>>>> origin/master
+Route::get('/tercerapruebacongit')
+
