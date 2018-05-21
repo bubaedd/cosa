@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('picopalquelee');
 
 Route::get('/index');
+
+Route::get('holi');
