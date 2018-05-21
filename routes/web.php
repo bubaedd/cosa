@@ -19,4 +19,8 @@ Route::get('picopalquelee');
 
 Route::get('/index');
 
+<<<<<<< HEAD
 Route::get('/pruebascongit');
+=======
+Route::get('holi');
+>>>>>>> 28ab315529e9c3d398794f2f8ca94c4c8c8a5a15
