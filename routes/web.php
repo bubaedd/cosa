@@ -12,14 +12,11 @@
 */
 
 Route::get('/', function () {
-    return "hola";
+    return "hollita";
 });
 
 Route::get('picopalquelee');
 
 Route::get('/index');
 
-<<<<<<< HEAD
-Route::get('/tercerapruebacongit');
-=======
->>>>>>> origin/master
+Route::get('/tercerapruebacongit')
